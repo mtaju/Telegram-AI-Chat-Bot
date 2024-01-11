@@ -1,5 +1,5 @@
 {
-  "name": "telegram-chatgpt-bot",
+  "name": "Lazack chatting bot",
   "version": "1.0.0",
   "description": "Simple Telegram Bot Chatbot Ai Powerd By OpenAi ChatGpt.",
   "main": "bot.js",
